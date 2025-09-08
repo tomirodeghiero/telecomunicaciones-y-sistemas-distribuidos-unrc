@@ -9,4 +9,3 @@
 ## Descripción
 
 Este repositorio contiene las resoluciones de las prácticas realizadas en la materia de **Telecomunicaciones y Sistemas Distribuidos** en la **Universidad Nacional de Río Cuarto**.
-# telecomunicaciones-y-sistemas-distribuidos-unrc
